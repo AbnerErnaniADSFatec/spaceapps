@@ -19,7 +19,7 @@
     "valid-url": "^1.0.9",
     "validatorjs": "^3.17.1",
     "worldwind-react-globe": "^1.2.0",
-    "chart.js": "2.7.1"
+    "chart.js": "2.9.4"
   },
   "scripts": {
     "start": "react-scripts start",
